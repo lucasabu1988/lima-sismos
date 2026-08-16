@@ -1,0 +1,546 @@
+{
+  "generatedAt": "2026-08-16T15:44:49.955Z",
+  "notes": {
+    "limaTz": "America/Lima",
+    "bbox": {
+      "minLat": -18.55,
+      "maxLat": 0.15,
+      "minLon": -81.55,
+      "maxLon": -68.55
+    },
+    "usgs": "FDSN event catalog, M≥4.0, 1960-01-01 to present, Peru+fosa bbox",
+    "igp": "CENSIS ajaxb yearly reports 2012-2026"
+  },
+  "series": [
+    {
+      "label": "USGS Perú M≥4.0 · catálogo instrumental 1960–2025 (años completos)",
+      "total": 9948,
+      "minYear": 1960,
+      "maxYear": 2025,
+      "nYears": 66,
+      "expectedUniformPct": 8.333333333333334,
+      "rows": [
+        {
+          "month": 1,
+          "name": "Enero",
+          "count": 728,
+          "pctHistorical": 7.31805388017692,
+          "avgPerYear": 11.030303030303031,
+          "pctOfYearAvg": 7.318053880176921
+        },
+        {
+          "month": 2,
+          "name": "Febrero",
+          "count": 690,
+          "pctHistorical": 6.936067551266587,
+          "avgPerYear": 10.454545454545455,
+          "pctOfYearAvg": 6.936067551266587
+        },
+        {
+          "month": 3,
+          "name": "Marzo",
+          "count": 819,
+          "pctHistorical": 8.232810615199035,
+          "avgPerYear": 12.409090909090908,
+          "pctOfYearAvg": 8.232810615199035
+        },
+        {
+          "month": 4,
+          "name": "Abril",
+          "count": 856,
+          "pctHistorical": 8.604744672295938,
+          "avgPerYear": 12.969696969696969,
+          "pctOfYearAvg": 8.604744672295938
+        },
+        {
+          "month": 5,
+          "name": "Mayo",
+          "count": 837,
+          "pctHistorical": 8.413751507840772,
+          "avgPerYear": 12.681818181818182,
+          "pctOfYearAvg": 8.413751507840772
+        },
+        {
+          "month": 6,
+          "name": "Junio",
+          "count": 971,
+          "pctHistorical": 9.76075593084037,
+          "avgPerYear": 14.712121212121213,
+          "pctOfYearAvg": 9.760755930840372
+        },
+        {
+          "month": 7,
+          "name": "Julio",
+          "count": 883,
+          "pctHistorical": 8.876156011258544,
+          "avgPerYear": 13.378787878787879,
+          "pctOfYearAvg": 8.876156011258544
+        },
+        {
+          "month": 8,
+          "name": "Agosto",
+          "count": 910,
+          "pctHistorical": 9.14756735022115,
+          "avgPerYear": 13.787878787878787,
+          "pctOfYearAvg": 9.14756735022115
+        },
+        {
+          "month": 9,
+          "name": "Septiembre",
+          "count": 708,
+          "pctHistorical": 7.117008443908324,
+          "avgPerYear": 10.727272727272727,
+          "pctOfYearAvg": 7.117008443908324
+        },
+        {
+          "month": 10,
+          "name": "Octubre",
+          "count": 955,
+          "pctHistorical": 9.599919581825493,
+          "avgPerYear": 14.469696969696969,
+          "pctOfYearAvg": 9.599919581825493
+        },
+        {
+          "month": 11,
+          "name": "Noviembre",
+          "count": 820,
+          "pctHistorical": 8.242862887012464,
+          "avgPerYear": 12.424242424242424,
+          "pctOfYearAvg": 8.242862887012466
+        },
+        {
+          "month": 12,
+          "name": "Diciembre",
+          "count": 771,
+          "pctHistorical": 7.750301568154402,
+          "avgPerYear": 11.681818181818182,
+          "pctOfYearAvg": 7.750301568154404
+        }
+      ]
+    },
+    {
+      "label": "USGS Perú M≥4.5 · 1960–2025",
+      "total": 5860,
+      "minYear": 1960,
+      "maxYear": 2025,
+      "nYears": 66,
+      "expectedUniformPct": 8.333333333333334,
+      "rows": [
+        {
+          "month": 1,
+          "name": "Enero",
+          "count": 445,
+          "pctHistorical": 7.593856655290103,
+          "avgPerYear": 6.742424242424242,
+          "pctOfYearAvg": 7.593856655290103
+        },
+        {
+          "month": 2,
+          "name": "Febrero",
+          "count": 440,
+          "pctHistorical": 7.508532423208192,
+          "avgPerYear": 6.666666666666667,
+          "pctOfYearAvg": 7.508532423208192
+        },
+        {
+          "month": 3,
+          "name": "Marzo",
+          "count": 467,
+          "pctHistorical": 7.969283276450511,
+          "avgPerYear": 7.075757575757576,
+          "pctOfYearAvg": 7.969283276450513
+        },
+        {
+          "month": 4,
+          "name": "Abril",
+          "count": 482,
+          "pctHistorical": 8.225255972696246,
+          "avgPerYear": 7.303030303030303,
+          "pctOfYearAvg": 8.225255972696246
+        },
+        {
+          "month": 5,
+          "name": "Mayo",
+          "count": 490,
+          "pctHistorical": 8.361774744027302,
+          "avgPerYear": 7.424242424242424,
+          "pctOfYearAvg": 8.361774744027302
+        },
+        {
+          "month": 6,
+          "name": "Junio",
+          "count": 587,
+          "pctHistorical": 10.017064846416382,
+          "avgPerYear": 8.893939393939394,
+          "pctOfYearAvg": 10.017064846416384
+        },
+        {
+          "month": 7,
+          "name": "Julio",
+          "count": 485,
+          "pctHistorical": 8.276450511945391,
+          "avgPerYear": 7.348484848484849,
+          "pctOfYearAvg": 8.276450511945393
+        },
+        {
+          "month": 8,
+          "name": "Agosto",
+          "count": 526,
+          "pctHistorical": 8.976109215017065,
+          "avgPerYear": 7.96969696969697,
+          "pctOfYearAvg": 8.976109215017065
+        },
+        {
+          "month": 9,
+          "name": "Septiembre",
+          "count": 391,
+          "pctHistorical": 6.67235494880546,
+          "avgPerYear": 5.924242424242424,
+          "pctOfYearAvg": 6.67235494880546
+        },
+        {
+          "month": 10,
+          "name": "Octubre",
+          "count": 585,
+          "pctHistorical": 9.982935153583618,
+          "avgPerYear": 8.863636363636363,
+          "pctOfYearAvg": 9.982935153583618
+        },
+        {
+          "month": 11,
+          "name": "Noviembre",
+          "count": 512,
+          "pctHistorical": 8.737201365187714,
+          "avgPerYear": 7.757575757575758,
+          "pctOfYearAvg": 8.737201365187715
+        },
+        {
+          "month": 12,
+          "name": "Diciembre",
+          "count": 450,
+          "pctHistorical": 7.679180887372014,
+          "avgPerYear": 6.818181818181818,
+          "pctOfYearAvg": 7.679180887372014
+        }
+      ]
+    },
+    {
+      "label": "USGS Perú M≥5.0 · 1960–2025",
+      "total": 1989,
+      "minYear": 1960,
+      "maxYear": 2025,
+      "nYears": 66,
+      "expectedUniformPct": 8.333333333333334,
+      "rows": [
+        {
+          "month": 1,
+          "name": "Enero",
+          "count": 166,
+          "pctHistorical": 8.345902463549521,
+          "avgPerYear": 2.515151515151515,
+          "pctOfYearAvg": 8.345902463549521
+        },
+        {
+          "month": 2,
+          "name": "Febrero",
+          "count": 144,
+          "pctHistorical": 7.239819004524888,
+          "avgPerYear": 2.1818181818181817,
+          "pctOfYearAvg": 7.239819004524886
+        },
+        {
+          "month": 3,
+          "name": "Marzo",
+          "count": 156,
+          "pctHistorical": 7.8431372549019605,
+          "avgPerYear": 2.3636363636363638,
+          "pctOfYearAvg": 7.8431372549019605
+        },
+        {
+          "month": 4,
+          "name": "Abril",
+          "count": 158,
+          "pctHistorical": 7.943690296631472,
+          "avgPerYear": 2.393939393939394,
+          "pctOfYearAvg": 7.943690296631472
+        },
+        {
+          "month": 5,
+          "name": "Mayo",
+          "count": 170,
+          "pctHistorical": 8.547008547008547,
+          "avgPerYear": 2.5757575757575757,
+          "pctOfYearAvg": 8.547008547008547
+        },
+        {
+          "month": 6,
+          "name": "Junio",
+          "count": 223,
+          "pctHistorical": 11.211664152840624,
+          "avgPerYear": 3.378787878787879,
+          "pctOfYearAvg": 11.211664152840624
+        },
+        {
+          "month": 7,
+          "name": "Julio",
+          "count": 144,
+          "pctHistorical": 7.239819004524888,
+          "avgPerYear": 2.1818181818181817,
+          "pctOfYearAvg": 7.239819004524886
+        },
+        {
+          "month": 8,
+          "name": "Agosto",
+          "count": 188,
+          "pctHistorical": 9.451985922574158,
+          "avgPerYear": 2.8484848484848486,
+          "pctOfYearAvg": 9.451985922574158
+        },
+        {
+          "month": 9,
+          "name": "Septiembre",
+          "count": 116,
+          "pctHistorical": 5.832076420311714,
+          "avgPerYear": 1.7575757575757576,
+          "pctOfYearAvg": 5.832076420311714
+        },
+        {
+          "month": 10,
+          "name": "Octubre",
+          "count": 196,
+          "pctHistorical": 9.854198089492208,
+          "avgPerYear": 2.9696969696969697,
+          "pctOfYearAvg": 9.854198089492208
+        },
+        {
+          "month": 11,
+          "name": "Noviembre",
+          "count": 190,
+          "pctHistorical": 9.55253896430367,
+          "avgPerYear": 2.878787878787879,
+          "pctOfYearAvg": 9.552538964303672
+        },
+        {
+          "month": 12,
+          "name": "Diciembre",
+          "count": 138,
+          "pctHistorical": 6.93815987933635,
+          "avgPerYear": 2.090909090909091,
+          "pctOfYearAvg": 6.93815987933635
+        }
+      ]
+    },
+    {
+      "label": "USGS Perú M≥6.0 · 1960–2025",
+      "total": 223,
+      "minYear": 1960,
+      "maxYear": 2025,
+      "nYears": 61,
+      "expectedUniformPct": 8.333333333333334,
+      "rows": [
+        {
+          "month": 1,
+          "name": "Enero",
+          "count": 18,
+          "pctHistorical": 8.071748878923767,
+          "avgPerYear": 0.29508196721311475,
+          "pctOfYearAvg": 8.071748878923767
+        },
+        {
+          "month": 2,
+          "name": "Febrero",
+          "count": 14,
+          "pctHistorical": 6.278026905829597,
+          "avgPerYear": 0.22950819672131148,
+          "pctOfYearAvg": 6.278026905829597
+        },
+        {
+          "month": 3,
+          "name": "Marzo",
+          "count": 19,
+          "pctHistorical": 8.520179372197308,
+          "avgPerYear": 0.3114754098360656,
+          "pctOfYearAvg": 8.52017937219731
+        },
+        {
+          "month": 4,
+          "name": "Abril",
+          "count": 17,
+          "pctHistorical": 7.623318385650224,
+          "avgPerYear": 0.2786885245901639,
+          "pctOfYearAvg": 7.623318385650224
+        },
+        {
+          "month": 5,
+          "name": "Mayo",
+          "count": 28,
+          "pctHistorical": 12.556053811659194,
+          "avgPerYear": 0.45901639344262296,
+          "pctOfYearAvg": 12.556053811659194
+        },
+        {
+          "month": 6,
+          "name": "Junio",
+          "count": 19,
+          "pctHistorical": 8.520179372197308,
+          "avgPerYear": 0.3114754098360656,
+          "pctOfYearAvg": 8.52017937219731
+        },
+        {
+          "month": 7,
+          "name": "Julio",
+          "count": 20,
+          "pctHistorical": 8.968609865470851,
+          "avgPerYear": 0.32786885245901637,
+          "pctOfYearAvg": 8.968609865470851
+        },
+        {
+          "month": 8,
+          "name": "Agosto",
+          "count": 20,
+          "pctHistorical": 8.968609865470851,
+          "avgPerYear": 0.32786885245901637,
+          "pctOfYearAvg": 8.968609865470851
+        },
+        {
+          "month": 9,
+          "name": "Septiembre",
+          "count": 18,
+          "pctHistorical": 8.071748878923767,
+          "avgPerYear": 0.29508196721311475,
+          "pctOfYearAvg": 8.071748878923767
+        },
+        {
+          "month": 10,
+          "name": "Octubre",
+          "count": 13,
+          "pctHistorical": 5.829596412556054,
+          "avgPerYear": 0.21311475409836064,
+          "pctOfYearAvg": 5.829596412556054
+        },
+        {
+          "month": 11,
+          "name": "Noviembre",
+          "count": 24,
+          "pctHistorical": 10.762331838565023,
+          "avgPerYear": 0.39344262295081966,
+          "pctOfYearAvg": 10.762331838565023
+        },
+        {
+          "month": 12,
+          "name": "Diciembre",
+          "count": 13,
+          "pctHistorical": 5.829596412556054,
+          "avgPerYear": 0.21311475409836064,
+          "pctOfYearAvg": 5.829596412556054
+        }
+      ]
+    },
+    {
+      "label": "IGP/CENSIS reportes oficiales 2012–2025 (años completos)",
+      "total": 7767,
+      "minYear": 2012,
+      "maxYear": 2025,
+      "nYears": 14,
+      "expectedUniformPct": 8.333333333333334,
+      "rows": [
+        {
+          "month": 1,
+          "name": "Enero",
+          "count": 651,
+          "pctHistorical": 8.381614522981847,
+          "avgPerYear": 46.5,
+          "pctOfYearAvg": 8.381614522981845
+        },
+        {
+          "month": 2,
+          "name": "Febrero",
+          "count": 575,
+          "pctHistorical": 7.403115746105317,
+          "avgPerYear": 41.07142857142857,
+          "pctOfYearAvg": 7.403115746105317
+        },
+        {
+          "month": 3,
+          "name": "Marzo",
+          "count": 720,
+          "pctHistorical": 9.269988412514484,
+          "avgPerYear": 51.42857142857143,
+          "pctOfYearAvg": 9.269988412514483
+        },
+        {
+          "month": 4,
+          "name": "Abril",
+          "count": 610,
+          "pctHistorical": 7.8537401828247715,
+          "avgPerYear": 43.57142857142857,
+          "pctOfYearAvg": 7.85374018282477
+        },
+        {
+          "month": 5,
+          "name": "Mayo",
+          "count": 703,
+          "pctHistorical": 9.051113686107893,
+          "avgPerYear": 50.214285714285715,
+          "pctOfYearAvg": 9.051113686107893
+        },
+        {
+          "month": 6,
+          "name": "Junio",
+          "count": 650,
+          "pctHistorical": 8.368739539075577,
+          "avgPerYear": 46.42857142857143,
+          "pctOfYearAvg": 8.368739539075577
+        },
+        {
+          "month": 7,
+          "name": "Julio",
+          "count": 665,
+          "pctHistorical": 8.561864297669628,
+          "avgPerYear": 47.5,
+          "pctOfYearAvg": 8.561864297669628
+        },
+        {
+          "month": 8,
+          "name": "Agosto",
+          "count": 684,
+          "pctHistorical": 8.80648899188876,
+          "avgPerYear": 48.857142857142854,
+          "pctOfYearAvg": 8.806488991888758
+        },
+        {
+          "month": 9,
+          "name": "Septiembre",
+          "count": 619,
+          "pctHistorical": 7.969615037981202,
+          "avgPerYear": 44.214285714285715,
+          "pctOfYearAvg": 7.969615037981202
+        },
+        {
+          "month": 10,
+          "name": "Octubre",
+          "count": 681,
+          "pctHistorical": 8.76786404016995,
+          "avgPerYear": 48.642857142857146,
+          "pctOfYearAvg": 8.76786404016995
+        },
+        {
+          "month": 11,
+          "name": "Noviembre",
+          "count": 577,
+          "pctHistorical": 7.428865713917858,
+          "avgPerYear": 41.214285714285715,
+          "pctOfYearAvg": 7.428865713917856
+        },
+        {
+          "month": 12,
+          "name": "Diciembre",
+          "count": 632,
+          "pctHistorical": 8.136989828762713,
+          "avgPerYear": 45.142857142857146,
+          "pctOfYearAvg": 8.136989828762713
+        }
+      ]
+    }
+  ]
+}

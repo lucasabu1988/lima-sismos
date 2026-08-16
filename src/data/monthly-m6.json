@@ -1,0 +1,40 @@
+{
+  "usgs": {
+    "label": "USGS M>6.0 · 1960–2025",
+    "total": 182,
+    "years": 66,
+    "rows": [
+      { "name": "Ene", "count": 16, "pct": 8.79, "avg": 0.24 },
+      { "name": "Feb", "count": 11, "pct": 6.04, "avg": 0.17 },
+      { "name": "Mar", "count": 14, "pct": 7.69, "avg": 0.21 },
+      { "name": "Abr", "count": 13, "pct": 7.14, "avg": 0.2 },
+      { "name": "May", "count": 24, "pct": 13.19, "avg": 0.36 },
+      { "name": "Jun", "count": 14, "pct": 7.69, "avg": 0.21 },
+      { "name": "Jul", "count": 16, "pct": 8.79, "avg": 0.24 },
+      { "name": "Ago", "count": 18, "pct": 9.89, "avg": 0.27 },
+      { "name": "Sep", "count": 15, "pct": 8.24, "avg": 0.23 },
+      { "name": "Oct", "count": 11, "pct": 6.04, "avg": 0.17 },
+      { "name": "Nov", "count": 21, "pct": 11.54, "avg": 0.32 },
+      { "name": "Dic", "count": 9, "pct": 4.95, "avg": 0.14 }
+    ]
+  },
+  "igp": {
+    "label": "IGP/CENSIS M>6.0 · 2012–2025",
+    "total": 48,
+    "years": 14,
+    "rows": [
+      { "name": "Ene", "count": 6, "pct": 12.5, "avg": 0.43 },
+      { "name": "Feb", "count": 2, "pct": 4.17, "avg": 0.14 },
+      { "name": "Mar", "count": 6, "pct": 12.5, "avg": 0.43 },
+      { "name": "Abr", "count": 2, "pct": 4.17, "avg": 0.14 },
+      { "name": "May", "count": 4, "pct": 8.33, "avg": 0.29 },
+      { "name": "Jun", "count": 7, "pct": 14.58, "avg": 0.5 },
+      { "name": "Jul", "count": 4, "pct": 8.33, "avg": 0.29 },
+      { "name": "Ago", "count": 5, "pct": 10.42, "avg": 0.36 },
+      { "name": "Sep", "count": 4, "pct": 8.33, "avg": 0.29 },
+      { "name": "Oct", "count": 2, "pct": 4.17, "avg": 0.14 },
+      { "name": "Nov", "count": 5, "pct": 10.42, "avg": 0.36 },
+      { "name": "Dic", "count": 1, "pct": 2.08, "avg": 0.07 }
+    ]
+  }
+}
