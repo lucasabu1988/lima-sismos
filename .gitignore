@@ -12,10 +12,6 @@ dist
 dist-ssr
 *.local
 
-# Raw GNSS / USGS dumps (derived JSON lives in src/data/)
-data/*.tenv3
-data/usgs-peru-m4-1960.csv
-
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
